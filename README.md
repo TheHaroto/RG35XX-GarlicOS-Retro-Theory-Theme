@@ -1,6 +1,6 @@
 # RG35XX-GarlicOS-Retro-Theory-Theme
 
-A Retro GameBoy theme created for use within GarlicOS on the Anbernic RG35XX handheld device!
+A Retro GameBoy styled theme created for use within GarlicOS on the Anbernic RG35XX handheld device!
 
 
 ![Retro Theory Showcase](https://user-images.githubusercontent.com/131164472/233538014-7cbb8ed0-0dc1-42c2-8b71-06ef9e89518b.gif)
