@@ -2,9 +2,13 @@
 
 A Retro GameBoy styled theme created for use within GarlicOS on the Anbernic RG35XX handheld device!
 
+Retro Theory v1 - This is a lighter theme without a filter on the "Recently Played" screen:
 
 ![Retro Theory Showcase](https://user-images.githubusercontent.com/131164472/233538014-7cbb8ed0-0dc1-42c2-8b71-06ef9e89518b.gif)
 
+Retro Theory v2 - This is a darker more saturated theme that has a GameBoy screen like filter applied to the "Recently Played" screen:
+
+![Retro Theory v2 Showcase](https://user-images.githubusercontent.com/131164472/233765938-c091c246-4b27-48a7-a6d6-78fdf4dc6337.gif)
 
 *****************************************************************
 
